@@ -65,6 +65,22 @@ System out printf("ingrese contraseña");
 <span onmouseover="javascript:document.body.style.backgroundColor='#74b8fb'; document.body.style.backgroundImage='none';"><img border="1" src= 
 "http://u.jimdo.com/www21/o/s4e9df44a0ad8ccd8/img/i75f43d7530285f50/1279635875/thumb/image.jpg" alt="" /></span> 
 </td> 
+<div id="inspector">
+        <h1>INSPECTOR</h1>         
+         
+        <label>Ingrese el usuario</label>
+        <input id="aValue" type="text"/>
+         
+         
+        <label>Ingrese la contraseña</label>
+        <input id="bValue" type="text"/>
+         
+         
+        <div id="aceptar">Result: <span id="aceptarvalue"></span>
+        </div>
+         
+    </div>
+</body>
 </tr> 
 </table> 
 </center> 
