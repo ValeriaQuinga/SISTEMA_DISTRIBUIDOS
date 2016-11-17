@@ -1,12 +1,20 @@
 # SISTEMA_DISTRIBUIDOS
 Sistema de Control Escolar
-<div class="degree">
-		<!-- wrapper -->
-		<div class="wrapper">
-			<a href="index.html"><img src="@{'/public/img/logo.png'}" height="75" width="75"
-				alt="Logo" id="logo" /></a>
-System out printf("ingrese autentificación");
-System out printf("ingrese contraseña");
-}
 
-}
+<div class="mws-panel-body">
+			<table class="mws-table">
+				<thead>
+					<tr>
+						<th><label> CI </label></th>
+						<th><label> Nombre </label></th>
+						<th><label> Apellidos </label></th>
+						<th><label> Telefono </label></th>
+						<th><label> Direccion </label></th>
+						<th><label> Licencia </label></th>
+						
+	
+						<th colspan="2"><label> <center> Acciones  </center></label></th>
+					</tr>
+					</thead>
+</table>
+</div>
